@@ -7,4 +7,4 @@ Para rodar esse projeto na sua máqujina, por favor digite:
 ---
 > node app.js
 ---
-
+ :)
